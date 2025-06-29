@@ -35,7 +35,7 @@ Open the `_config.yml` file in your repository. This file contains the configura
 2. Set the `url` field to `https://yourusername.github.io`.
 3. Wait for the github action to complete, you can check the status of the action in the `Actions` tab of your repository.
 4. Once the action is complete, you can visit your blog at `https://yourusername.github.io` to see the default 
-   Jekyll site. The page should look something like this:![image](./img/chirpy.png)
+   Jekyll site. The page should look something like this:![image](/assets/img/chirpy.png)
 
 ## Step 3: Clone the repository locally and customize Your Blog
 1. Clone the repository to your local machine and open the cloned repository in your code editor
